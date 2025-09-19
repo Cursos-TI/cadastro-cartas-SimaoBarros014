@@ -40,8 +40,8 @@ printf("Estado: %c \n", estado);
 printf("Codigo de Carta: %s \n", codigodecarta);
 printf("Nome da Cidade: %s \n", nomedacidade);
 printf("Polulacão Civil: %d \n", população);
-printf("Area em km²: %f \n", areaemkm²);
-printf("PIB: %f \n", pib);
+printf("Area em km²: %f  Km² \n", areaemkm²);
+printf("PIB: %f Bilhões de Reais \n", pib);
 printf("NUmeros de Turistas: %d \n", pontosturisticos);
 
 return 0;
